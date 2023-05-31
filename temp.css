@@ -1,0 +1,32 @@
+#box{
+    height: 400px;
+    width:1000px;
+    background: url(https://static.vecteezy.com/system/resources/thumbnails/008/079/335/small/empty-showcase-abstract-pastel-color-background-3d-illustration-free-vector.jpg);
+    margin-left: 170px;
+}
+.box{
+    display: flex;
+}
+.input{
+    padding: 30px 100px 10px 40px;
+}
+select{
+    height: 25px;
+    width: 200px;
+}
+#temp,#result{
+    height: 20px;
+    width: 200px;
+}
+.input1{
+    height: 20px;
+    width: 200px;
+    margin: 40px 0px 20px 385px;
+}
+.btn{
+    margin: 130px 0px 0px 430px;
+}
+button{
+    height: 30px;
+    width: 100px;
+}
