@@ -1,12 +1,3 @@
-//var fromtemp = document.getElementById("from").value
-   // var totemp = document.getElementById("to").value
-    //var oldtemp = document.getElementById("temp").value
-    //var x = document.getElementById("result").innerHTML=
-   // x.innerHTML = ""
-//console.log(fromtemp)
-
-
-
 function change(){
 var fromtemp = document.getElementById("from").value
 var totemp = document.getElementById("to").value
